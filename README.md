@@ -13,7 +13,7 @@
 
 ## Conclusion
 <p align="center">
-<img width="446" alt="image" src="https://github.com/kiiae99/Capstone-Design/assets/86785673/7399f3c6-8b74-450b-9c44-77226faee2f1">
+<img width="800" alt="image" src="https://github.com/kiiae99/Capstone-Design/assets/86785673/7399f3c6-8b74-450b-9c44-77226faee2f1">
 </p>
 
 
