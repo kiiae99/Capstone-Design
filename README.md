@@ -12,6 +12,9 @@
 * BERT/KoBERT와 HuBERT, MultiMAE를 활용한 Backchannel Prediction Model
 
 ## Conclusion
+<p align="center">
+<img width="446" alt="image" src="https://github.com/kiiae99/Capstone-Design/assets/86785673/7399f3c6-8b74-450b-9c44-77226faee2f1">
+</p>
 
 
 
@@ -21,4 +24,4 @@
 * “MultiMAE: Multi-modal Multi-task Masked Autoencoders” [Roman et al,. ECCV2022]
 
 ## Reports
-*
+*[BC_최종보고서.pdf](https://github.com/kiiae99/Capstone-Design/files/11781781/BC_.pdf)
