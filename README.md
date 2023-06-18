@@ -21,7 +21,7 @@
 ## References
 * “BPM_MT: Enhanced Backchannel Prediction Model using Multi-Task Learning” [Jang et al,. EMNLP’21]
 * “OH, JEEZ! OR UH-HUH? A LISTENER-AWARE BACKCHANNEL PREDICTOR ON ASR TRANSCRIPTIONS” [Ortega et al,. ICASSP’20]
-* “MultiMAE: Multi-modal Multi-task Masked Autoencoders” [Roman et al,. ECCV2022]
+* “MultiMAE: Multi-modal Multi-task Masked Autoencoders” [Roman et al,. ECCV'22]
 
 ## Reports
 * [BC_최종보고서.pdf](https://github.com/kiiae99/Capstone-Design/files/11781781/BC_.pdf)
