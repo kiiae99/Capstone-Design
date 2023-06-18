@@ -24,4 +24,4 @@
 * “MultiMAE: Multi-modal Multi-task Masked Autoencoders” [Roman et al,. ECCV2022]
 
 ## Reports
-*[BC_최종보고서.pdf](https://github.com/kiiae99/Capstone-Design/files/11781781/BC_.pdf)
+* [BC_최종보고서.pdf](https://github.com/kiiae99/Capstone-Design/files/11781781/BC_.pdf)
