@@ -8,7 +8,8 @@
 * BERT/KoBERT와 HuBERT, MultiMAE를 활용한 Backchannel Prediction Model
 
 ## Conclusion
-*
+<img width="410" alt="image" src="https://github.com/kiiae99/Capstone-Design/assets/86785673/e26f7e5f-a84a-4d2d-9992-98e9222775ee">
+
 
 ## References
 * “BPM_MT: Enhanced Backchannel Prediction Model using Multi-Task Learning” [Jang et al,. EMNLP’21]
